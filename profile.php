@@ -90,7 +90,7 @@ if (isset($_SESSION['userId'])) {
 <body>
 <header>
     <div class="container">
-        <h1>Втулки</h1>
+        <h1>Профиль</h1>
         <nav>
             <?php if (!isset($_SESSION['userId'])): ?>
                 <a href="index.php">Главная</a>
