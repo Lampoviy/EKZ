@@ -73,7 +73,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <div class="header">
-        <h1>Втулки</h1>
+        <h1>Регистрация</h1>
         <p>Лучшее место для регистрации</p>
     </div>
     <div class="container">
